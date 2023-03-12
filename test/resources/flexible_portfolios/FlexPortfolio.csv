@@ -1,0 +1,4 @@
+Stock Name,Quantity,Date,Type of Trade
+AAPL,22.0,2022-10-18,BUY
+AAPL,4.0,2022-10-25,SELL
+AAPL,10.0,2022-10-26,BUY
